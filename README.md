@@ -8,7 +8,7 @@
 
 | Step | Description | Image |
 |------|-------------|-------|
-| 0 | Original grayscale image | ![Unit Ramp](Screenshot_0.png) |
+| 0 | Original grayscale image | ![Unit Ramp](Screenshot_0.png.png) |
 | 1 | **Sobel** (left) **Prewitt** (right) | ![Unit Ramp](Screenshot_1.png)|
 | 2 | **Canny** detector (`[0.05 0.2]`) | ![Unit Ramp](Screenshot_2.png) |
 | 3 | **Laplacian of Gaussian** (LoG) | ![Unit Ramp](Screenshot_3.png) |
